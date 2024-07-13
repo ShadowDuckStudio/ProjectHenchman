@@ -1,0 +1,4 @@
+Begin Object Class=/Script/Engine.Font Name="FORTE_Font" ExportPath=/Script/Engine.Font'"/Game/FootballBarrage/Fonts/FORTE_Font.FORTE_Font"'
+   FontCacheType=Runtime
+   CompositeFont=(DefaultTypeface=(Fonts=((Name="Default",Font=(FontFaceAsset=/Script/Engine.FontFace'"/Game/FootballBarrage/Fonts/FORTE.FORTE"')))))
+End Object
